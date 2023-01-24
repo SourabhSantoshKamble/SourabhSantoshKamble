@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sourabhsk870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabhsk870" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/sourabh-santosh-kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh santosh kamble" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sourabh-santosh-kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh santosh kamble" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sourabh santosh kamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sourabh santosh kamble" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sourabhsantoshk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabhsantoshk1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sourabhsantoshkamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabhsantoshkamble" height="30" width="40" /></a>
