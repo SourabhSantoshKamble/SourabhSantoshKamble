@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sourabh Santosh Kamble</h1>
 <h3 align="center">B.E graduate in CSE</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhsantoshkamble&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhsantoshkamble" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhsantoshkamble" alt="sourabhsantoshkamble" /></a> </p>
 
 - 🔭 I’m currently working on [Flutter](https://github.com/SourabhSantoshKamble/Flutter)
 
@@ -22,6 +22,8 @@
 - 📄 Know about my experiences [https://github.com/SourabhSantoshKamble/Resume/blob/main/General%20Resume/Resume.pdf](https://github.com/SourabhSantoshKamble/Resume/blob/main/General%20Resume/Resume.pdf)
 
 - ⚡ Fun fact **I am a good Cricket player**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabhsantoshkamble" alt="sourabhsantoshkamble" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
