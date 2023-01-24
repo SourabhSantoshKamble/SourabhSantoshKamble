@@ -1,20 +1,17 @@
-![Header](./your-header-image-name.png)
+  ![Header](./github-header-image.png)
 
-
-<h1 align="center">Hi 👋, I'm Sourabh Santosh Kamble</h1>
-<h3 align="center">B.E graduate in CSE</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhsantoshkamble&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhsantoshkamble" /> </p>
 
 
-- 🔭 I’m currently working on [Flutter](https://github.com/SourabhSantoshKamble/Flutter)
+- 🔭 I’m currently learning  [Flutter](https://github.com/SourabhSantoshKamble/Flutter)
 
-- 🌱 I’m currently learning **Flutter, Firebase, Python**
+- 🌱 I’m also currently learning about **Firebase, Python**
 
-- 👯 I’m looking to collaborate on **Flutter community**
+- 👯 I’m looking to collaborate on **Flutter, Python**
 
-- 🤝 I’m looking for help with **advancing my skills in Flutter dev**
+- 🤝 I’m looking for help with **advancing my skills in Flutter application dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SourabhSantoshKamble/](https://github.com/SourabhSantoshKamble/)
 
