@@ -4,22 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhsantoshkamble&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhsantoshkamble" /> </p>
 
+- 👯 I’m looking to collaborate on **C++ based projects**
 
-- 🔭 I’m currently learning  [Flutter](https://github.com/SourabhSantoshKamble/Flutter)
-
-- 🌱 I’m also currently learning about **Firebase, Python**
-
-- 👯 I’m looking to collaborate on **Flutter, Python**
-
-- 🤝 I’m looking for help with **advancing my skills in Flutter application dev**
+- 🤝 I’m looking for help with **advancing my skills in C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SourabhSantoshKamble/](https://github.com/SourabhSantoshKamble/)
 
-- 💬 Ask me about **Flutter, Python, C, HTML**
+- 💬 Ask me about **C++**
 
-- 📫 How to reach me **sourabhsk870@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/SourabhSantoshKamble/Resume/blob/main/General%20Resume/Resume.pdf](https://github.com/SourabhSantoshKamble/Resume/blob/main/General%20Resume/Resume.pdf)
+- 📫 How to reach me **sourabhsantoshkamble@gmail.com**
 
 - ⚡ Fun fact **I am a good Cricket player**
 
